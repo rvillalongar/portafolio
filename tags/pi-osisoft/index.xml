@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PI-osisoft on RVR</title>
+    <link>https://rvillalongar.github.io/portafolio/tags/pi-osisoft/</link>
+    <description>Recent content in PI-osisoft on RVR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Mar 2008 00:00:00 -0400</lastBuildDate><atom:link href="https://rvillalongar.github.io/portafolio/tags/pi-osisoft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blade Path Temperature Anomalies Detection</title>
+      <link>https://rvillalongar.github.io/portafolio/post/project01/</link>
+      <pubDate>Mon, 03 Mar 2008 00:00:00 -0400</pubDate>
+      
+      <guid>https://rvillalongar.github.io/portafolio/post/project01/</guid>
+      <description>algorithms that detect temperature deviations in the combustion chambers, comparing said deviations with a relational model of power and compressor outlet temperature, which allows detecting possible flaws in the combustion chambers. The objective of this system is to alert before the fault occurs or the alarm of the control system is activated.</description>
+    </item>
+    
+  </channel>
+</rss>
