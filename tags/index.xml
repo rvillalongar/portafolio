@@ -6,31 +6,139 @@
     <description>Recent content in Tags on RVR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Mar 2008 00:00:00 -0400</lastBuildDate><atom:link href="https://rvillalongar.github.io/portafolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Aug 2016 08:00:08 -0400</lastBuildDate><atom:link href="https://rvillalongar.github.io/portafolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analysis</title>
+      <link>https://rvillalongar.github.io/portafolio/tags/analysis/</link>
+      <pubDate>Wed, 10 Aug 2016 08:00:08 -0400</pubDate>
+      
+      <guid>https://rvillalongar.github.io/portafolio/tags/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>https://rvillalongar.github.io/portafolio/tags/android/</link>
+      <pubDate>Wed, 10 Aug 2016 08:00:08 -0400</pubDate>
+      
+      <guid>https://rvillalongar.github.io/portafolio/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anomaly Detection</title>
+      <link>https://rvillalongar.github.io/portafolio/tags/anomaly-detection/</link>
+      <pubDate>Wed, 10 Aug 2016 08:00:08 -0400</pubDate>
+      
+      <guid>https://rvillalongar.github.io/portafolio/tags/anomaly-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apple</title>
+      <link>https://rvillalongar.github.io/portafolio/tags/apple/</link>
+      <pubDate>Wed, 10 Aug 2016 08:00:08 -0400</pubDate>
+      
+      <guid>https://rvillalongar.github.io/portafolio/tags/apple/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Generation</title>
       <link>https://rvillalongar.github.io/portafolio/tags/generation/</link>
-      <pubDate>Mon, 03 Mar 2008 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 10 Aug 2016 08:00:08 -0400</pubDate>
       
       <guid>https://rvillalongar.github.io/portafolio/tags/generation/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>ML</title>
+      <link>https://rvillalongar.github.io/portafolio/tags/ml/</link>
+      <pubDate>Wed, 10 Aug 2016 08:00:08 -0400</pubDate>
+      
+      <guid>https://rvillalongar.github.io/portafolio/tags/ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PI-AF</title>
+      <link>https://rvillalongar.github.io/portafolio/tags/pi-af/</link>
+      <pubDate>Wed, 10 Aug 2016 08:00:08 -0400</pubDate>
+      
+      <guid>https://rvillalongar.github.io/portafolio/tags/pi-af/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PI-API</title>
+      <link>https://rvillalongar.github.io/portafolio/tags/pi-api/</link>
+      <pubDate>Wed, 10 Aug 2016 08:00:08 -0400</pubDate>
+      
+      <guid>https://rvillalongar.github.io/portafolio/tags/pi-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PI-osisoft</title>
       <link>https://rvillalongar.github.io/portafolio/tags/pi-osisoft/</link>
-      <pubDate>Mon, 03 Mar 2008 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 10 Aug 2016 08:00:08 -0400</pubDate>
       
       <guid>https://rvillalongar.github.io/portafolio/tags/pi-osisoft/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Regression</title>
-      <link>https://rvillalongar.github.io/portafolio/tags/regression/</link>
-      <pubDate>Mon, 03 Mar 2008 00:00:00 -0400</pubDate>
+      <title>PRISM</title>
+      <link>https://rvillalongar.github.io/portafolio/tags/prism/</link>
+      <pubDate>Wed, 10 Aug 2016 08:00:08 -0400</pubDate>
       
-      <guid>https://rvillalongar.github.io/portafolio/tags/regression/</guid>
+      <guid>https://rvillalongar.github.io/portafolio/tags/prism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server</title>
+      <link>https://rvillalongar.github.io/portafolio/tags/sql-server/</link>
+      <pubDate>Wed, 10 Aug 2016 08:00:08 -0400</pubDate>
+      
+      <guid>https://rvillalongar.github.io/portafolio/tags/sql-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSAS</title>
+      <link>https://rvillalongar.github.io/portafolio/tags/ssas/</link>
+      <pubDate>Wed, 10 Aug 2016 08:00:08 -0400</pubDate>
+      
+      <guid>https://rvillalongar.github.io/portafolio/tags/ssas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSIS</title>
+      <link>https://rvillalongar.github.io/portafolio/tags/ssis/</link>
+      <pubDate>Wed, 10 Aug 2016 08:00:08 -0400</pubDate>
+      
+      <guid>https://rvillalongar.github.io/portafolio/tags/ssis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSRS</title>
+      <link>https://rvillalongar.github.io/portafolio/tags/ssrs/</link>
+      <pubDate>Wed, 10 Aug 2016 08:00:08 -0400</pubDate>
+      
+      <guid>https://rvillalongar.github.io/portafolio/tags/ssrs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PI-ACE</title>
+      <link>https://rvillalongar.github.io/portafolio/tags/pi-ace/</link>
+      <pubDate>Thu, 10 Jun 2010 08:00:08 -0400</pubDate>
+      
+      <guid>https://rvillalongar.github.io/portafolio/tags/pi-ace/</guid>
       <description></description>
     </item>
     

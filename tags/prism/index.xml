@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PRISM on RVR</title>
+    <link>https://rvillalongar.github.io/portafolio/tags/prism/</link>
+    <description>Recent content in PRISM on RVR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Aug 2016 08:00:08 -0400</lastBuildDate><atom:link href="https://rvillalongar.github.io/portafolio/tags/prism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Use case PrISM Implementation</title>
+      <link>https://rvillalongar.github.io/portafolio/post/project05/</link>
+      <pubDate>Wed, 10 Aug 2016 08:00:08 -0400</pubDate>
+      
+      <guid>https://rvillalongar.github.io/portafolio/post/project05/</guid>
+      <description>In search of a global tool for building algorithms focused on reducing unavailability. We developed a success case with the schneider team, which involved presenting a real unavailability, modeling the algorithm and understanding when we would have obtained an alarm to prevent unavailability on water pump.</description>
+    </item>
+    
+  </channel>
+</rss>

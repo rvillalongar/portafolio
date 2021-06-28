@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ML on RVR</title>
+    <link>https://rvillalongar.github.io/portafolio/tags/ml/</link>
+    <description>Recent content in ML on RVR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Aug 2016 08:00:08 -0400</lastBuildDate><atom:link href="https://rvillalongar.github.io/portafolio/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Use case PrISM Implementation</title>
+      <link>https://rvillalongar.github.io/portafolio/post/project05/</link>
+      <pubDate>Wed, 10 Aug 2016 08:00:08 -0400</pubDate>
+      
+      <guid>https://rvillalongar.github.io/portafolio/post/project05/</guid>
+      <description>In search of a global tool for building algorithms focused on reducing unavailability. We developed a success case with the schneider team, which involved presenting a real unavailability, modeling the algorithm and understanding when we would have obtained an alarm to prevent unavailability on water pump.</description>
+    </item>
+    
+    <item>
+      <title>Apply Similarity-Based Modeling to monitoring assets</title>
+      <link>https://rvillalongar.github.io/portafolio/post/project04/</link>
+      <pubDate>Thu, 10 Jun 2010 08:00:08 -0400</pubDate>
+      
+      <guid>https://rvillalongar.github.io/portafolio/post/project04/</guid>
+      <description>#Tengo que decir que participe en la construccion y la aplicacion
+With the University of Chile(Dr Marcos Orchard), Enel staff (leader Rodrigo Paredes) and Contact Engineers. We implement more advanced algorithms in real time platforms, together with the design of a framework for training new solutions or processes.
+&amp;ldquo;Paper&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>
