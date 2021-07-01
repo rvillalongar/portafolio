@@ -8,21 +8,22 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Aug 2016 08:00:08 -0400</lastBuildDate><atom:link href="https://rvillalongar.github.io/portafolio/tags/ssas/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>online Status of the company Assets on Android &amp; Apple</title>
-      <link>https://rvillalongar.github.io/portafolio/post/projectbi02/</link>
+      <title>Online Status of the Generation Assets on Android &amp; Apple</title>
+      <link>https://rvillalongar.github.io/portafolio/post/projectbi_appmonitoring/</link>
       <pubDate>Wed, 10 Aug 2016 08:00:08 -0400</pubDate>
       
-      <guid>https://rvillalongar.github.io/portafolio/post/projectbi02/</guid>
-      <description>Explicar la solucion Necesidad conque y como lo hicimos Design and implement worldwide and integrate the solution in Latin America the Big data &amp;amp; Analytics solution in the thermal generation processes.</description>
+      <guid>https://rvillalongar.github.io/portafolio/post/projectbi_appmonitoring/</guid>
+      <description>In the process of monitoring thermal generation, we had the need to centralize the information on news and criticalities for generation plants in Latin America. To solve this, we reuse a BI infrastructure plus the real-time information from the PI Osisoft platform, along with other management systems. The unification of this information was through an API. Later we develop (externally) the Android and Apple applications. With this we had all our clients in Latin America updated on the status of the generation and its criticalities.</description>
     </item>
     
     <item>
-      <title>Business intelligence on Monitoring Room</title>
-      <link>https://rvillalongar.github.io/portafolio/post/projectbi01/</link>
+      <title>WareHouse Business intelligence on Process Data</title>
+      <link>https://rvillalongar.github.io/portafolio/post/projectbi_warehouse/</link>
       <pubDate>Tue, 10 Mar 2015 08:00:08 -0400</pubDate>
       
-      <guid>https://rvillalongar.github.io/portafolio/post/projectbi01/</guid>
-      <description>Explicar la solucion Necesidad conque y como lo hicimos Design and implement worldwide and integrate the solution in Latin America the Big data &amp;amp; Analytics solution in the thermal generation processes.</description>
+      <guid>https://rvillalongar.github.io/portafolio/post/projectbi_warehouse/</guid>
+      <description>Within the need to monitor operational efficiency, we had the need to implement metrics corresponding to generation monitoring, with different levels of openings and dimensions. For this I had the opportunity to develop a Warehouse (from 0) containing operational data from Plant Information Osisoft (time series values) and other management systems (management or operational values). This project became the backbone of operational management, analysis and reporting for Latin America.
+ </description>
     </item>
     
   </channel>
